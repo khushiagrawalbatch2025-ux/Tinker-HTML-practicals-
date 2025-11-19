@@ -1,12 +1,10 @@
 # 💻 Web Dev Exercises: HTML & CSS
+# 💻 Word Exercises: Word office
+# 💻 Excel Exercises: Excel office
+# 💻 Aurdino Exercises: Tinkercad
 
 ## 👋 Welcome!
-This repository holds simple, foundational HTML and CSS exercises I completed for learning web development basics.
-
-It demonstrates concepts like:
-* HTML page structure and forms.
-* Basic CSS styling and layout.
-* Creating tables and personal profile pages.
+This repository holds simple, foundational HTML and CSS, Word, Excel and Aurdino exercises I completed for learning as basics.
 
 ---
 
